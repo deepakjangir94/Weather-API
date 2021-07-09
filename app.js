@@ -1,9 +1,7 @@
 // // api.openweathermap.org/data/2.5/weather?q={city name}&appid=
 
-// // 0a19083b39d5abab10069c9f3c57a520
-//bab281d79e5f1e9755a68d754cc313e7
 const weatherApi = {
-    key: "2e68a834f51f29273226da243de18125",
+    key: "PASTE YOUR API KEY HERE",
     baseUrl: "https://api.openweathermap.org/data/2.5/weather", 
 }
 
